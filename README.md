@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Tu Nombre]
 
-<!--
-**adrianapenate/adrianapenate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **4th-year Data Science & Engineering Student at ULPGC**  
+🚀 Focused on **Machine Learning**, **NLP**, **Data Engineering**, and **Data Strategy**.  
+💼 Currently seeking a **Curricular Internship** (Convenio ULPGC) in Data Engineering, Data Science, or Analytics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+- 📈 Passionate about bridging technical complexity with real-world business value.
+- 🗣️ Experience in public speaking, teamwork, and cross-functional communication.
+- 🌍 Background in international environments and project management.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Python, SQL, R, Java
+- **Data & ML:** Pandas, NumPy, Scikit-Learn, NLTK, Statistical Analysis, NLP Techniques
+- **Visualization & Dashboards:** Plotly, Matplotlib, Streamlit, Interactive Dashboards
+- **Tools & Infra:** Git, GitHub, Relational & NoSQL Databases, Jupyter Notebooks
+
+---
+
+### 📬 Connect with Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/adriana-peñate-sosa-43879a286](https://www.linkedin.com/in/adriana-peñate-sosa-43879a286)
+- ✉️ **Email:** adrianapenatesosa@gmail.com
