@@ -1,4 +1,4 @@
-# Hi there! I'm Adriana Peñate
+## Hi there! I'm Adriana Peñate
 
 🎓 **4th-year Data Science & Engineering Student at ULPGC**  
 🚀 Focused on **Machine Learning**, **NLP**, **Data Engineering**, and **Data Strategy**.  
